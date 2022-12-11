@@ -14,7 +14,7 @@
   "author": "Valentin Quelquejay",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
   },
